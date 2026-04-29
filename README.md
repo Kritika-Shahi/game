@@ -20,3 +20,6 @@ source .venv/bin/activate
 pip install pygame
 python main.py
 ```
+## Team Members
+-Kritika Shahi
+-Dawood Rehman
